@@ -1,0 +1,27 @@
+
+[windows]
+
+MinTravelTimeFile_CD = E:\\OGP2022\\src\\main\\resources\\chengdu\\part4\\minCrossTimeOfCD.txt
+roadFile_CD = E:\\OGP2022\\src\\main\\resources\\chengdu\\part4\\chengdu_edges.txt
+queryRequestFilepath_CD = E:\\OGP2022\\src\\main\\resources\\chengdu\\part4\\orders.txt
+ODFilepath_CD = E:\\OGP2022\\src\\main\\resources\\chengdu\\part2\\chengdu_OD.txt
+nodeFile_CD = E:\\OGP2022\\src\\main\\resources\\chengdu\\part4\\chengdu_nodes.txt
+
+# MinTravelTimeFile_CD = E:\\OGP2022\\src\\main\\resources\\chengdu\\minCrossTimeOfCD.txt
+# roadFile_CD = E:\\OGP2022\\src\\main\\resources\\chengdu\\chengdu.txt
+# queryRequestFilepath_CD = E:\\OGP2022\\src\\main\\resources\\chengdu\\randomUserchengdu.txt
+# ODFilepath_CD = E:\\OGP2022\\src\\main\\resources\\chengdu\\chengdu_OD.txt
+
+MinTravelTimeFile_NY = E:\\OGP2022\\src\\main\\resources\\NY\\minCrossTimeOfNY.txt
+roadFile_NY = E:\\OGP2022\\src\\main\\resources\\NY\\NY_edges.txt
+nodeFile_NY = E:\\OGP2022\\src\\main\\resources\\NY\\NY_nodes.txt
+queryRequestFilepath_NY = E:\\OGP2022\\src\\main\\resources\\NY\\randomQueryNY.txt
+ODFilepath_NY = E:\\OGP2022\\src\\main\\resources\\NY\\NY_OD.txt
+
+MinTravelTimeFile_TG = E:\\OGP2022\\src\\main\\resources\\TG\\minCrossTimeOfTG.txt
+roadFile_TG = E:\\OGP2022\\src\\main\\resources\\TG\\TG_edges.txt
+nodeFile_TG = E:\\OGP2022\\src\\main\\resources\\TG\\TG_nodes.txt
+queryRequestFilepath_TG = E:\\OGP2022\\src\\main\\resources\\TG\\randomQueryTG.txt
+ODFilepath_TG = E:\\OGP2022\\src\\main\\resources\\TG\\TG_OD.txt
+
+
